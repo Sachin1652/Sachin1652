@@ -35,8 +35,6 @@ Passionate about building reliable and scalable systems. I love turning complex 
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin1652-ss/)
-# - [![X](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)]()
-# - [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Sachin1652)
 
 ---
